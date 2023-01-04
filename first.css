@@ -14,6 +14,7 @@ p{
 }
 .smaller-image{
     width: 100px;
+    border-radius: 50%;
 }
 .thick-green-border{
     border-color: green;
