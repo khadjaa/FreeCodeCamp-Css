@@ -34,6 +34,8 @@ p{
 }
 h4 {
     text-align: center;
+    padding: 10px;
+    background-color:rgba(45, 45, 45, 0.1);
   }
   p {
     text-align: justify;
