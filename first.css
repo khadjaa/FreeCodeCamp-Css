@@ -82,3 +82,6 @@ nav li {
   display: inline;
   margin-right: 20px;
 }
+body{
+  background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+}
