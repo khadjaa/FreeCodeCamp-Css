@@ -72,7 +72,7 @@ a:hover {
   top:0;
   left:0;
   width: 100%;
-  background-color: #767676;
+  background-color: hsl(240, 100%, 50%);
 }
 nav ul {
   margin: 0px;
