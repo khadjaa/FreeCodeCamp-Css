@@ -41,6 +41,7 @@ h4 {
   }
   p {
     text-align: justify;
+    line-height:25px;
   }
   .links {
     margin-right: 20px;
