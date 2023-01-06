@@ -72,3 +72,11 @@ a:hover {
   top:0;
   left:0;
 }
+nav ul {
+  margin: 0px;
+  padding: 5px 0px 5px 30px;
+}
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
