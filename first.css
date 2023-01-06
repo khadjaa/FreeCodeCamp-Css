@@ -3,6 +3,7 @@ h2{
   font-family: Lobster, monospace;
   position:relative;
   top:15px;
+  left:10px;
 }
 .blue-text{
   color: blue;
@@ -65,4 +66,9 @@ p {
 }
 a:hover {
   color: blue;
+}
+#navbar {
+  position : fixed;
+  top:0;
+  left:0;
 }
