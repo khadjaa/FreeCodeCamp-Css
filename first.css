@@ -1,63 +1,63 @@
 h2{
-    color: red;
-    font-family: Lobster, monospace;
+  color: red;
+  font-family: Lobster, monospace;
 }
 .blue-text{
-    color: blue;
+  color: blue;
 }
 .red-text{
-    color: red;
+  color: red;
 }
 p{
-    font-size: 16px;
-    font-family: monospace;
+  font-size: 16px;
+  font-family: monospace;
 }
 .smaller-image{
-    width: 100px;
-    border-radius: 50%;
+  width: 100px;
+  border-radius: 50%;
 }
 .thick-green-border{
-    border-color: green;
-    border-width: 10px;
-    border-style: solid;
-    border-radius: 10px;
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 10px;
 }
 .silver-background{
-    background-color: silver;
+  background-color: silver;
 }
 #cat-photo-form{
-    background-color:green;
+  background-color:green;
 }
 [type='checkbox'] {
-    margin-top:10px;
-    margin-bottom:15px;
+  margin-top:10px;
+  margin-bottom:15px;
 }
 h4 {
-    text-align: center;
-    padding: 10px;
-    background-color:rgba(45, 45, 45, 0.1);
-    font-size: 27px;
-    text-transform: uppercase;
-  }
-  p {
-    text-align: justify;
-    line-height:25px;
-  }
-  .links {
-    margin-right: 20px;
-    text-align: left;
-    opacity: 0.7;
-  }
-  .fullCard {
-    width:245px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin: 10px 5px;
-    padding: 4px;
-  }
-  .cardContent {
-    padding: 10px;
-  }
-  #thumbnail{
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-  }
+  text-align: center;
+  padding: 10px;
+  background-color:rgba(45, 45, 45, 0.1);
+  font-size: 27px;
+  text-transform: uppercase;
+}
+p {
+  text-align: justify;
+  line-height:25px;
+}
+.links {
+  margin-right: 20px;
+  text-align: left;
+  opacity: 0.7;
+}
+.fullCard {
+  width:245px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 5px;
+  padding: 4px;
+}
+.cardContent {
+  padding: 10px;
+}
+#thumbnail{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
