@@ -120,7 +120,7 @@ body{
 #box-container {
   height: 500px;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: column;
 }
 
 #box-1 {
